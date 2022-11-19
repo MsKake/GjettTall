@@ -1,0 +1,8 @@
+C:\Users\scott\Desktop\Kode\GjettTall\GjettTall\bin\Debug\GjettTall.exe.config
+C:\Users\scott\Desktop\Kode\GjettTall\GjettTall\bin\Debug\GjettTall.exe
+C:\Users\scott\Desktop\Kode\GjettTall\GjettTall\bin\Debug\GjettTall.pdb
+C:\Users\scott\Desktop\Kode\GjettTall\GjettTall\obj\Debug\GjettTall.csproj.AssemblyReference.cache
+C:\Users\scott\Desktop\Kode\GjettTall\GjettTall\obj\Debug\GjettTall.csproj.SuggestedBindingRedirects.cache
+C:\Users\scott\Desktop\Kode\GjettTall\GjettTall\obj\Debug\GjettTall.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\Kode\GjettTall\GjettTall\obj\Debug\GjettTall.exe
+C:\Users\scott\Desktop\Kode\GjettTall\GjettTall\obj\Debug\GjettTall.pdb
